@@ -1,0 +1,2 @@
+This is a placeholder directory for images.
+Actual hero images (hero1.jpg, hero2.jpg, hero3.jpg) and about.jpg should be placed here.
